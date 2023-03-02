@@ -10,7 +10,7 @@ The formula-schedule.js is the script that creates a schedule of the most recent
 
 [The backend service](https://github.com/SpiffyEight77/formula) of the formula-schedule.js is running on [Supabase Edge Functions](https://supabase.com/edge-functions).
 
-<img src="https://rrgsqujyiqonxehgjekw.supabase.co/storage/v1/object/public/formula/screenshots/formula-schedule-widget.JPEG" width="600" height="400" alt="formula-schedule-widget" />
+<img src="https://img.spiffyeight77.com/github/scriptable/99D9972B5B82D82D4078A6D06D5D7FB1.JPEG" width="600" height="400" alt="formula-schedule-widget" />
 
 #### TODO
 - [ ] Support light mode display.
